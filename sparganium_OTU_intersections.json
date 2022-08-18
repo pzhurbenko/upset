@@ -1,6 +1,6 @@
 {
 	"file": "https://raw.githubusercontent.com/pzhurbenko/upset/main/sparganium_OTU_intersections.csv",
-	"name": "sparganium_OTU_1",
+	"name": "sparganium_OTU_intersections",
 	"header": 0,
 	"separator": ",",
 	"skip": 0,
