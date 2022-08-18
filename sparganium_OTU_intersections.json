@@ -1,5 +1,5 @@
 {
-	"file": "https://raw.githubusercontent.com/pzhurbenko/upset/main/sparganium_OTU_2.csv",
+	"file": "https://raw.githubusercontent.com/pzhurbenko/upset/main/sparganium_OTU_intersections.csv",
 	"name": "sparganium_OTU_1",
 	"header": 0,
 	"separator": ",",
@@ -8,6 +8,6 @@
 		{ "type": "id", "index": 0, "name": "Name" }
 	],
 	"sets": [
-		{ "format": "binary", "start": 1, "end": 9 }
+		{ "format": "binary", "start": 1, "end": 15 }
 	]
 }
